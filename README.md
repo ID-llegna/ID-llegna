@@ -2,7 +2,7 @@
 
 - 💼 Trabalho na Solar Coca-Cola.
 - 📚 Faço curso superior em Desenvolvimento de Jogos Digitais.
-- 🌱 Aprendendo c# e um pouco de modelagem no Blender.
+- 🌱 Aprendendo C# e um pouco de modelagem no Blender.
 - 🏄‍♂️ Eu surfo.
 - 😏 Ele/ Dele
 - 🤓👆 *PENSE* : O serto e o erado e apenas coisa criada por pesoas.
