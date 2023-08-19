@@ -6,7 +6,7 @@
 - 🏄‍♂️ Eu surfo.
 - 😏 Ele/ Dele
 - 🤓👆 *PENSE* : O serto e o erado e apenas coisa criada por pesoas.
-
+##
 <div>
   <a href="https://br.linkedin.com/in/pablo-menezes-74559320a"><img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target"_blanck"
 ></a>
