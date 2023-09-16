@@ -1,8 +1,8 @@
 ##  I'm Pablo Menezes 👋
 
-- 💼 Trabalho na Solar Coca-Cola.
+- 💼 Trabalho como auxiliar adm.
 - 📚 Faço curso superior em Desenvolvimento de Jogos Digitais.
-- 🌱 Aprendendo C# e um pouco de modelagem no Blender.
+- 🌱 Aprendendo Logica em C# e um pouco de modelagem e animação.
 - 🏄‍♂️ Eu surfo.
 - 😏 Ele/ Dele
 - 🤓👆 *PENSE* : O serto e o erado e apenas a concessão de uma maioria.
