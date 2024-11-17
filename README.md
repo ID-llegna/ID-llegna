@@ -1,10 +1,8 @@
 ##  I'm Pablo Menezes 👋
 
-- 💼 Trabalho como auxiliar adm.
-- 📚 Faço curso superior em Desenvolvimento de Jogos Digitais.
-- 🌱 Aprendendo Logica em C# e um pouco de modelagem e animação.
+- 💼 Trabalho na Expedição de Camara Fria.
+- 🌱 Tudo que sei é em c#.
 - 🏄‍♂️ Eu surfo.
-- 😏 Ele/ Dele
 - 🤓👆 *PENSE* : O serto e o erado e apenas a concessão de uma maioria.
 ##
 <div>
